@@ -1,2 +1,2 @@
-# recommendation_system_kaggle
+# Content Based Recommender System on Kaggle
 A recommender system for kernels based on the Meta Kaggle dataset. The system is primarily aimed at suggesting new kernel for Kaggle users that are related to the current kernel by one or more factors. The kernel being built primarily uses a collaborative filtering based recommendation system using item-item similarity matrix built using correlation factors and then using clustering techniques to identify nearest neighbors.
